@@ -1,6 +1,9 @@
 # SimulationGazeboCamera
 ROS2 simulation of a camera using gazebo and rviz2
 
+![alt text](https://github.com/DanaWentBananas/SimulationGazeboCamera/blob/main/camera_gazebo_simulation.png?raw=true)
+
+![alt text](https://github.com/DanaWentBananas/SimulationGazeboCamera/blob/main/camera_gazebo_graph.png?raw=true)
 
 
 # ROS2 Gazebo Simulation with a camera sensor
