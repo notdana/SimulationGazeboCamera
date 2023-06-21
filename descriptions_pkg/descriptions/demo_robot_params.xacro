@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://ros.org/wiki/xacro">
+
+  <!-- Define parameters -->
+  <xacro:property name="arm_length" value="1" />
+  <xacro:property name="arm_radius" value="0.1" />
+
+</robot>

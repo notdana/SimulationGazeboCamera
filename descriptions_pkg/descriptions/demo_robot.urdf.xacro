@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="demo_robot">
+
+    <!-- HERE WILL GO ALL THE OTHER XACRO FILES YOU MAKE -->
+
+    <xacro:include filename="demo_robot_main.xacro"/>
+    
+</robot>
+
